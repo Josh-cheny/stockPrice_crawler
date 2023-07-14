@@ -50,7 +50,7 @@ def returnStrDayList(startYear, startMonth, endYear, endMonth, day = "01"):
 tree = ET.parse(xml_file)
 root = tree.getroot()
 xml_dict = xml_to_dict(root)
-print_xml_dict(xml_dict) #原來xml_dict是字典
+print_xml_dict(xml_dict) #xml_dict = profile name 
 fields = ["Date","Trade Volume",
 "Trade Value","Opening Price",
 "Highest Price","Lowest Price",

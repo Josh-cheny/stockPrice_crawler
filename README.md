@@ -25,8 +25,7 @@
 7. 執行exe檔案
 8. 即可獲得一個製作完畢的股票價格分析excel檔  
 
-
-＃ problem sloved
+# problem sloved
 Email me the problem
 s/u
 
